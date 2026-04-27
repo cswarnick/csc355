@@ -1,0 +1,1 @@
+PHP/MySQL web app for querying football player and team statistics. Built as a final project for CSC355 (Database Management). Features a landing page with links to query pages for team data, player touchdowns per season, career passing yards, and average touchdowns across all players
